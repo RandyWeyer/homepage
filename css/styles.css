@@ -31,3 +31,12 @@ img {
   align-items: center;
   background: rgba(100, 40, 0, .5);
 }
+.main-footer {
+    background-color: #2f2f2f;
+    color: #eee;
+    height: 110px;
+    line-height: 100px;
+}
+.carousel-img {
+/* Additional styling for all carousel images */
+}
